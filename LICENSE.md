@@ -1,4 +1,4 @@
-<b>Copyleft 2018 Denny Paulista Azevdo Filgo & Marilene Esquiavoni</b>
+<b>Copyleft 2018 Denny Paulista Azevdo Filho & Marilene Esquiavoni</b>
 
 TrunfoGame is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
